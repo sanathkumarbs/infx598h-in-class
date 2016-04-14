@@ -1,0 +1,34 @@
+body {
+    font-family: 'Droid Sans', Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2 {
+    font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    color: red;
+}
+
+.tag-line {
+    font-variant: small-caps;
+}
+
+.sec1 {
+    background: #999;
+}
+
+.sec2 {
+   background: aqua; 
+}
+
+header, section {
+    padding: 1em;
+}
+
+svg {
+    height: 2em;
+    fill: beige;
+    stroke: blueviolet;
+}
