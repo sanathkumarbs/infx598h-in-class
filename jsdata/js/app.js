@@ -74,4 +74,3 @@ keys.forEach(function (key) {
    var avg = stats.sum / stats.count;
    console.log("%s = %d", key, avg);
 });
-        
